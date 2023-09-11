@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+    font-family: 'Outfit';
+  }
+  
+  .parallax {
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  
+  .parallax h1 {
+    font-size: 100px;
+    font-weight: 700;
+  }
+  
+  #section1 {
+    background-image: url(https://images7.alphacoders.com/617/617973.jpg); 
+  }
+  
+  #section3 {
+    background-image: url(https://images6.alphacoders.com/469/469744.jpg); 
+  }
+  
+  #section5 {
+    background-image: url(https://images4.alphacoders.com/662/662530.jpg); 
+  }
+  
+  .normal {
+    height: 100vh;
+    background-color: #800000;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .normal2 {
+    height: 100vh;
+    background-color: #040023;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .normal3 {
+    height: 100vh;
+    background-color: #cf8414;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  
+  .normal h3  {
+    font-size: 3rem;
+  }
+  
+  
+  p {
+    width: 290px;
+  }
